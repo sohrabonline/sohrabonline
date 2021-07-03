@@ -17,6 +17,10 @@
 
 ### Connect with me:
 
+[![Twitter: sohrabonline](https://img.shields.io/twitter/follow/sohrabonline?style=social)](https://twitter.com/sohrabonline)
+[![Linkedin: sohrabonline](https://img.shields.io/badge/-sohrabonline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohrabonline/)](https://www.linkedin.com/in/sohrabonline/)
+[![GitHub iampawan](https://img.shields.io/github/followers/sohrabonline?label=follow&style=social)](https://github.com/sohrabonline)
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SHRApp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Sohrab Vahidli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
