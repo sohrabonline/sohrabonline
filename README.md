@@ -1,7 +1,7 @@
 ### Hi there, I'm Sohrab - aka [sohrabonline][website] 👋
 
 [![Website](https://img.shields.io/website?label=sohrabonline&style=for-the-badge&url=https%3A%2F%2Fsohrabonline)](https://www.instagram.com/sohrabonline/)
-[![Telegram](https://img.shields.io/youtube/channel/views/UC4TueF0zT9BX_RJ74EdTd0Q?style=social))](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
+[![Telegram](https://img.shields.io/youtube/channel/views/UC4TueF0zT9BX_RJ74EdTd0Q?style=social)](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
 
 ## I'm a Flutter Developer !!
 
@@ -47,19 +47,13 @@
 <br />
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sohrabonline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohrabonline&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sohrabonline">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohrabonline&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohrabonline&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sohrabonline&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
