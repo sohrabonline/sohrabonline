@@ -1,7 +1,7 @@
 ### Hi there, I'm Sohrab - aka [sohrabonline][website] 👋
 
 [![Website](https://img.shields.io/website?label=sohrabonline&style=for-the-badge&url=https%3A%2F%2Fsohrabonline)](https://www.instagram.com/sohrabonline/)
-[![Telegram](https://icons.iconarchive.com/icons/froyoshark/enkel/24/Telegram-icon.png)](https://t.me/shrapp)
+[![Telegram](https://img.shields.io/youtube/channel/views/UC4TueF0zT9BX_RJ74EdTd0Q?style=social))](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
 
 ## I'm a Flutter Developer !!
 
@@ -18,10 +18,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SHRApp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Sohrab Vahidli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sohrabonline | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
