@@ -1,7 +1,7 @@
 ### Hi there, I'm Sohrab - aka [sohrabonline][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/sohrabonline/)
-[![Telegram](https://https://www.freeiconspng.com/uploads/web-telegram-icon--captiva-iconset--bokehlicia-4.png)](https://t.me/shrapp)
+[![Telegram](https://www.freeiconspng.com/uploads/web-telegram-icon--captiva-iconset--bokehlicia-4.png)](https://t.me/shrapp)
 
 ## I'm a Flutter Developer !!
 
