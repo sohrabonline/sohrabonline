@@ -1,4 +1,4 @@
-### Hi there, I'm Sohrab - aka [sohrabonline][website] 👋
+### Hi there, I'm Sohrab Vahidli - aka [sohrabonline][website] 👋
 
 [![Website](https://img.shields.io/website?label=sohrabonline&style=for-the-badge&url=https%3A%2F%2Fsohrabonline)](https://www.instagram.com/sohrabonline/)
 [![Telegram](https://img.shields.io/youtube/channel/views/UC4TueF0zT9BX_RJ74EdTd0Q?style=social)](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
@@ -46,6 +46,7 @@
 
 ---
 
+https://g.dev/sohrabonline
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
