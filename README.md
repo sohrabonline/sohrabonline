@@ -6,7 +6,7 @@
     I am a passionate <b>Flutter Developer</b> located in <b>Azerbaijan</b>. <img src="https://cdn.countryflags.com/thumbs/azerbaijan/flag-800.png" width=16>
     <br>
     with <b>4 years </b> experience
-    <br>
+ 
 </b>.
     <br>
     <div align="center"> 
