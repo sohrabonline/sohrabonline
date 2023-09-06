@@ -12,13 +12,13 @@
     <div align="center"> 
       <b>Find me on the internet 🌎</b>
       <br>
-      <a href="mailto:razvansauciucc@outlook.com">
+      <a href="mailto:esev.sv@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
       </a>
-      <a href="https://linkedin.com/in/razvansauciuc">
+      <a href="https://linkedin.com/in/sohrabonline">
         <img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin"/>
       </a>
-      <a href="https://instagram.com/razvan.sauciuc">
+      <a href="https://instagram.com/sohrabonline">
         <img src="https://img.shields.io/badge/INSTAGRAM-333333?style=for-the-badge&logo=instagram" />
       </a>
     </div>
