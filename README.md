@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Sohrab. 👋 </h1>
 
 <p align="center">
-    I am a passionate <b>Software Developer</b> located in <b>Azerbaijan</b>. <img src="https://en.wikipedia.org/wiki/File:Flag_of_Azerbaijan.svg" width=16>
+    I am a passionate <b>Software Developer</b> located in <b>Azerbaijan</b>. <img src="https://cdn.countryflags.com/thumbs/azerbaijan/flag-800.png" width=16>
     <br>
     Currently studying <b>Computer Science</b> at
     <br>
