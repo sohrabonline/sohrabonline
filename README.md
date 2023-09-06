@@ -46,40 +46,6 @@
 </p>
 
 
-
-
-### Connect with me:
-
-[![Twitter: sohrabonline](https://img.shields.io/twitter/follow/sohrabonline?style=social)](https://twitter.com/sohrabonline)
-[![Linkedin: sohrabonline](https://img.shields.io/badge/-sohrabonline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohrabonline/)](https://www.linkedin.com/in/sohrabonline/)
-[![GitHub iampawan](https://img.shields.io/github/followers/sohrabonline?label=follow&style=social)](https://github.com/sohrabonline)
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SHRApp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sohrab Vahidli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sohrabonline | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-<br />
-<br />
-
-
-
-
-
-<div align="center">
-
 ---
 
 https://g.dev/sohrabonline
