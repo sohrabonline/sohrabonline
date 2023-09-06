@@ -7,7 +7,7 @@
     <br>
     with <b>4 years </b> experience
  
-</b>.
+</b>
     <br>
     <div align="center"> 
       <b>Find me on the internet 🌎</b>
