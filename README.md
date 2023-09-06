@@ -3,12 +3,11 @@
 <h1 align="center">Hey there, I'm Sohrab. 👋 </h1>
 
 <p align="center">
-    I am a passionate <b>Software Developer</b> located in <b>Azerbaijan</b>. <img src="https://cdn.countryflags.com/thumbs/azerbaijan/flag-800.png" width=16>
+    I am a passionate <b>Flutter Developer</b> located in <b>Azerbaijan</b>. <img src="https://cdn.countryflags.com/thumbs/azerbaijan/flag-800.png" width=16>
     <br>
-    Currently studying <b>Computer Science</b> at
+    with <b>4 years </b> experience
     <br>
-    <b>Facultatea de Inginerie Electrică şi Ştiinţa Calculatoarelor Suceava</b>.
-    <br>
+
     <div align="center"> 
       <b>Find me on the internet 🌎</b>
       <br>
