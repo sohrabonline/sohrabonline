@@ -21,7 +21,7 @@
       <a href="https://instagram.com/sohrabonline">
         <img src="https://img.shields.io/badge/INSTAGRAM-333333?style=for-the-badge&logo=instagram" />
       </a>
-     <a href="https://instagram.com/sohrabonline">
+     <a href="https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q">
         <img src="https://img.shields.io/badge/YOUTUBE-333333?style=for-the-badge&logo=youtube" />
       </a>
     </div>
