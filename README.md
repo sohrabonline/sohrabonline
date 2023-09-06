@@ -45,15 +45,6 @@
     </p>
 </p>
 
-[![Website](https://img.shields.io/website?label=sohrabonline&style=for-the-badge&url=https%3A%2F%2Fsohrabonline)](https://www.instagram.com/sohrabonline/)
-[![Telegram](https://img.shields.io/youtube/channel/views/UC4TueF0zT9BX_RJ74EdTd0Q?style=social)](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
-
-## I'm a Flutter Developer !!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 
 
