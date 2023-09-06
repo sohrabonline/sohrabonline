@@ -1,9 +1,9 @@
 ### Hi there, I'm Sohrab Vahidli - aka [sohrabonline][website] 👋
 
-<h1 align="center">Hey there, I'm Răzvan. 👋 </h1>
+<h1 align="center">Hey there, I'm Sohrab. 👋 </h1>
 
 <p align="center">
-    I am a passionate <b>Software Developer</b> located in <b>Romania</b>. <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f7-1f1f4.png" width=16>
+    I am a passionate <b>Software Developer</b> located in <b>Azerbaijan</b>. <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f7-1f1f4.png" width=16>
     <br>
     Currently studying <b>Computer Science</b> at
     <br>
