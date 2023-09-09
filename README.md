@@ -33,7 +33,7 @@
         <b>Languages & Tools ⚒️</b>
         <br>
         <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,cpp" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,mysql,sqlite,figma,sentry" /><br>
     </div>
     <br>
     <p align="center">
