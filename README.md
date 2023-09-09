@@ -32,8 +32,9 @@
     <div align="center">
         <b>Languages & Tools ⚒️</b>
         <br>
-        <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,cpp" /><br>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,mysql,sqlite,figma,sentry" /><br>
+        <img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,discord,bots,fastapi,gcp,dart,flutter,firebase,java,kotlin,svg,swift" /><br>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,gradle,html,css,mysql,sqlite,figma,sentry" /><br>
+        <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,visualstudio,vscode,postman,stackoverflow,wordpress" /><br>
     </div>
     <br>
     <p align="center">
