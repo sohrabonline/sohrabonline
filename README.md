@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Sohrab Vahidli 👋</h1>
-<h3 align="center">Flutter Developer from Azerbaijan 🇦🇿</h3>
+<h1 align="center">Sohrab Vahidli 👋</h1>
+<h3 align="center">Flutter Developer | Mobile App Engineer | Azerbaijan 🇦🇿</h3>
 
 <p align="center">
-  I build modern, scalable, and high-performance mobile applications with Flutter.
+  Building scalable, maintainable, and high-quality mobile applications with Flutter.
 </p>
 
 <p align="center">
@@ -28,71 +28,84 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm Sohrab Vahidli, a Flutter Developer from Azerbaijan with 4+ years of experience in mobile application development.
+Hi, I'm Sohrab Vahidli, a Flutter Developer based in Azerbaijan with over 4 years of experience in mobile development.
 
-I enjoy building apps that are not only visually clean, but also scalable, maintainable, and production-ready. My main focus is Flutter, and I care a lot about clean architecture, performance, code quality, and creating solid user experiences.
+My primary focus is building cross-platform mobile applications with Flutter, while keeping codebases clean, scalable, and easy to maintain. I enjoy solving real product problems, improving app architecture, and delivering polished user experiences.
 
-Over time, I’ve worked with different tools and technologies around mobile development, backend services, cloud platforms, and modern development workflows. I like turning ideas into real products and continuously improving both the technical side and the user side of applications.
-
----
-
-## 🚀 What I Focus On
-
-- Cross-platform mobile development with Flutter
-- Building maintainable and scalable app architectures
-- Clean UI implementation and smooth UX
+I’m especially interested in:
+- Mobile app architecture
+- Clean code and maintainability
 - Performance optimization
-- API integration and backend communication
-- Firebase services and mobile app tooling
-- Modern development workflow with Git and CI/CD tools
+- API integration
+- Firebase ecosystem
+- Development workflows and tooling
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,swift,firebase" />
-</p>
+### Languages
+- Dart
+- Java
+- Kotlin
+- Swift
 
-### Backend, Cloud & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,gcp,cloudflare,mysql,sqlite" />
-</p>
+### Frameworks & Platforms
+- Flutter
+- Firebase
+- FastAPI
+- Google Cloud Platform
 
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,gradle,postman,figma,sentry,vscode,androidstudio" />
-</p>
+### Databases
+- MySQL
+- SQLite
 
----
-
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="mailto:esev.sv@gmail.com"><b>Email</b></a><br>
-  <a href="https://linkedin.com/in/sohrabonline"><b>LinkedIn</b></a><br>
-  <a href="https://instagram.com/sohrabonline"><b>Instagram</b></a><br>
-  <a href="https://twitter.com/sohrabonline"><b>Twitter</b></a><br>
-  <a href="https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q"><b>YouTube</b></a><br>
-  <a href="https://g.dev/sohrabonline"><b>Google Developer Profile</b></a>
-</p>
-
----
-
-## ⚡ A Few Things About Me
-
-- I enjoy building polished mobile experiences
-- I like clean and organized codebases
-- I’m always interested in learning better engineering practices
-- I care about both product quality and development quality
+### Tools
+- Git
+- GitHub
+- GitHub Actions
+- GitLab
+- Gradle
+- Postman
+- Figma
+- Sentry
+- Android Studio
+- VS Code
 
 ---
 
-## ✨ Motto
+## What I Build
+
+I work on mobile apps that aim to be:
+- fast
+- maintainable
+- scalable
+- user-friendly
+- production-ready
+
+I like combining clean UI with strong technical structure, because a good application should feel good for both the user and the developer.
+
+---
+
+## Find Me Online
+
+- Email: [esev.sv@gmail.com](mailto:esev.sv@gmail.com)
+- LinkedIn: [linkedin.com/in/sohrabonline](https://linkedin.com/in/sohrabonline)
+- Instagram: [instagram.com/sohrabonline](https://instagram.com/sohrabonline)
+- Twitter: [twitter.com/sohrabonline](https://twitter.com/sohrabonline)
+- YouTube: [YouTube Channel](https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q)
+- Google Developer Profile: [g.dev/sohrabonline](https://g.dev/sohrabonline)
+
+---
+
+## Personal Note
+
+I enjoy turning ideas into real mobile products and continuously improving the way applications are designed, built, and maintained.
+
+---
 
 <p align="center">
-  <i>Code your dreams into existence, one line at a time.</i>
+  <i>Thanks for visiting my profile.</i>
 </p>
