@@ -1,63 +1,44 @@
-### Hi there, I'm Sohrab Vahidli - aka [sohrabonline][website] 👋
-
-<h1 align="center">Hey there, I'm Sohrab. 👋 </h1>
+<h1 align="center">Sohrab Vahidli 👋</h1>
+<h3 align="center">Senior Flutter Developer | Mobile App Architect | Azerbaijan 🇦🇿</h3>
 
 <p align="center">
-    I am <b>Flutter Developer</b> located in <b>Azerbaijan</b> <img src="https://cdn.countryflags.com/thumbs/azerbaijan/flag-800.png" width=16>
-    <br>
-    with <b>4 years </b> experience
- 
-</b>
-    <br>
-    <div align="center"> 
-      <b>Find me on the internet 🌎</b>
-      <br>
-      <a href="mailto:esev.sv@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
-      </a>
-      <a href="https://linkedin.com/in/sohrabonline">
-        <img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin"/>
-      </a>
-      <a href="https://instagram.com/sohrabonline">
-        <img src="https://img.shields.io/badge/INSTAGRAM-333333?style=for-the-badge&logo=instagram" />
-      </a>
-     <a href="https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q">
-        <img src="https://img.shields.io/badge/YOUTUBE-333333?style=for-the-badge&logo=youtube" />
-      </a>
-    <a href="https://twitter.com/sohrabonline">
-        <img src="https://img.shields.io/badge/TWITTER-333333?style=for-the-badge&logo=twitter" />
-      </a>
-    </div>
-    <br>
-    <div align="center">
-        <b>Languages & Tools ⚒️</b>
-        <br>
-        <img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,discord,bots,fastapi,gcp,dart,flutter,firebase,java,kotlin,svg,swift" /><br>
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,gradle,html,css,mysql,sqlite,figma,sentry" /><br>
-        <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,visualstudio,vscode,postman,stackoverflow,wordpress" /><br>
-    </div>
-    <br>
-    <p align="center">
-        <b>
-            Code your dreams into existence, every keystroke is
-            <br>
-            a brushstroke painting the canvas of innovation. 🚀
-        </b>
-    </p>
+  I build performant, scalable, and production-ready mobile applications with Flutter.
 </p>
 
+<p align="center">
+  <a href="https://g.dev/sohrabonline"><img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="mailto:esev.sv@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://linkedin.com/in/sohrabonline"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://instagram.com/sohrabonline"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://twitter.com/sohrabonline"><img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q"><img src="https://img.shields.io/badge/YouTube-333333?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+</p>
 
 ---
 
-https://g.dev/sohrabonline
+## About Me
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/sohrabonline/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+I'm a Flutter Developer from Azerbaijan with 4+ years of experience in building mobile applications with a strong focus on clean architecture, maintainable codebases, and smooth user experiences.
+
+I enjoy turning ideas into real products and continuously improving app quality through better structure, performance, and engineering practices.
+
+---
+
+## Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,kotlin,swift,fastapi,gcp,git,github,githubactions,gitlab,gradle,mysql,sqlite,figma,sentry,vscode,androidstudio,postman" />
+</p>
+
+---
+
+## Reach Me
+
+<p align="center">
+  <a href="mailto:esev.sv@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/sohrabonline">LinkedIn</a> •
+  <a href="https://instagram.com/sohrabonline">Instagram</a> •
+  <a href="https://twitter.com/sohrabonline">Twitter</a> •
+  <a href="https://www.youtube.com/channel/UC4TueF0zT9BX_RJ74EdTd0Q">YouTube</a> •
+  <a href="https://g.dev/sohrabonline">Google Developer Profile</a>
+</p>
